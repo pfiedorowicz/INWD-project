@@ -147,8 +147,6 @@ pytz==2020.1
     # via
     #   django
     #   pandas
-pywin32==227
-    # via jupyter-core
 pywinpty==0.5.7
     # via terminado
 pyzmq==19.0.2
